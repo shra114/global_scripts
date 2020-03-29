@@ -2,6 +2,9 @@ import os
 import subprocess
 import datetime
 from statistics import median
+from random import randrange
+#print(randrange(10))
+
 
 def search_list_elements_in_order_in_str(str1, start_list, end_str):
     index = str1.find(start_list[0])
@@ -10,7 +13,10 @@ def search_list_elements_in_order_in_str(str1, start_list, end_str):
     index += len(start_list[-1])
     end_index = str1.find(end_str, index+1)
     return str1[index: end_index]
-
+def remove_things_from_str(str1, list1):
+    for i in list1:
+        str1 = str1.replace(i,"")
+    return str1
 
 def parse_csv(file_name, delimeter=","):
     list1 = parse_file_as_list(file_name)
