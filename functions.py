@@ -158,8 +158,8 @@ def create_dir(path):
 
 def cmd_call(cmd):
     subprocess.call(cmd, shell=True)
+    print ("Running command",cmd)
     return None
-
 
 def write_str_to_file_with_mode(str1,file1, mode, print_log=True):
     F = open(file1,mode)

@@ -105,6 +105,10 @@ alias gpush='git push origin master'
 alias python='python3'
 alias g='grep -i --color=auto'
 alias of="gnome-open "
+alias pybeep="python ~/Documents/github/global_scripts/beep.py "
+alias removeduplicates=="python ~/Documents/github/global_scripts/"
+alias shist="source ~/Documents/github/global_scripts/shist.sh"
+alias shx"shist;exit"
 
 
 # Add an "alert" alias for long running commands.  Use like so:
