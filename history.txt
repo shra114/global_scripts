@@ -1,0 +1,1000 @@
+of temp.csv
+python
+exit
+ll
+python screener_analysis.py > temp.ods
+of temp.ods
+python screener_analysis.py > temp.ods
+python screener_analysis.py > imp_results/cheap_2010_to_2019_screen.csv
+ga imp_results/cheap_2010_to_2019_screen.csv
+gm -m "add other relative column also" -a
+of imp_results/cheap_2010_to_2019_screen.csv
+gs
+ga imp_results/cheap_2010_to_2019_screen.ods
+gm -m "add ods format"
+python
+exit() exit()
+exit
+exit() exit
+python screener_analysis.py
+python screener_analysis.py > imp_results/growing_2010_to_2019_screen.csv
+of imp_results/growing_2010_to_2019_screen.csv
+python screener_analysis.py > imp_results/growing_2010_to_2019_screen.csv
+of imp_results/growing_2010_to_2019_screen.csv
+python screener_analysis.py > imp_results/growing_2010_to_2019_screen2.csv
+of imp_results/growing_2010_to_2019_screen2.csv
+python screener_analysis.py > temp.csv
+of temp.csv
+c
+ls
+c
+ls
+c
+v ~/.bashrc
+source get_data_screener.sh ; source get_data.sh
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+source get_data_screener.sh ; source get_data.sh ;
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+python
+cd Downloads/data/
+ls
+ll
+cd 20_01_22
+ll
+ls |wc
+cd
+cd -
+cd ../../screener_data
+ls
+ll 20_01_22
+ls |wc
+ls
+ls * |wc
+cd 20_01_20/
+v 512573.html
+of 512573.html
+ls
+cd
+cd Documents/scripts/
+ls
+cd screener/
+ls
+1
+ls
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+source get_data_screener.sh ; source get_data.sh ;
+shutdown -h now
+sudo apt-get install bluetooth
+which bluetooth
+lsmod |grep bluetooth
+sudo apt-get remove bluetooth
+sudo apt-get clean
+sudo apt-get install bluetooth
+bluetooth
+sudo apt install tlp
+bluetooth
+lsmod |grep bluetooth
+/etc/init.d/bluetooth start
+sh ./config
+make
+cd src/
+l
+1
+find . |g Makefile
+ls
+cat configure
+sh configure
+ls
+make
+gmake
+make
+v Makefile.in
+make check
+sudo apt-get install bluetooth bluez bluez-tools rfkill
+sudo rfkill list
+sudo rfkill unblock bluetooth
+sudo service bluetooth start
+sudo apt-get install blueman
+blueman
+sudo apt-get install blueman
+blueman
+shutdown -h 1:00
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+python
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+source get_data_screener.sh ; source get_data.sh ;
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+python
+python
+python
+python
+cd 20_01_01
+cd 20_01_05/
+ls
+g "nestle" *
+g "nestle" * -n
+g "nestle" * -irn
+g "nestle" * -irnl
+cd Downloads/data/
+ls
+cd 20_01_29
+ls
+ls |wc
+1
+ls |wc
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+python
+exit
+python
+exit() exit
+exit
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+python
+python
+python
+python
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+python
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+python
+ls
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+python
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+python
+exit
+python
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+source get_data_screener.sh ; source get_data.sh ;
+python
+python
+source get_data_screener.sh ; source get_data.sh ; '
+BB./iuJYCiuJY:"
+ls
+cd Downloads/screener_data_zip/
+l
+ll
+shx
+exit
+source get_data_screener.sh ; source get_data.sh ; '
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+python
+python
+source get_data_screener.sh ; source get_data.sh ;
+exit
+source get_data_screener.sh ; source get_data.sh ;
+source get_data_screener.sh ; source get_data.sh ; shutdown -h now
+python
+python
+python
+ls
+gs
+cd Documents/scripts/
+ls
+fgs
+gs
+gm -m "check-in edited files" -a
+gpush
+ls
+1
+ls
+gs
+ls
+cd scripts/
+ls
+touch beep.py
+v beep.py
+python beep.py
+python2 beep.py
+play
+sudo apt install sox
+python2 beep.py
+sudo apt install sox
+python beep.py
+ga beep.py
+gm -m "add beep.py"
+python beep.py 1
+ga beep.py
+gm -m "add time in min "
+gpush
+gs
+ls
+c
+python beep.py 20
+v beep.py
+ls
+python beep.py 0.1
+python beep.py 1
+ls
+1
+mkdir python_for_finance_udemy
+cd python_for_finance_udemy
+ls
+python
+ls
+source get_data_screener.sh ; source get_data.sh ;
+python
+exit
+python
+exit
+python
+ga historical_stock_prices_2000_2020March/
+gs
+ga historical_stock_prices_2000_2020March/*
+gm -m "add historical stock prices"
+gpush
+source get_data_screener.sh ; source get_data.sh ;
+python
+gs
+ls
+cd finance/
+ls
+touch portfolio_analysis.py
+python portfolio_analysis.py
+ln -s ../global_scripts/functions.py .
+cat sample_data/allocation.csv
+python portfolio_analysis.py
+c
+ls
+touch portfolio_analysis_prices.csv
+ls ~/Documents/scripts/historical_stock_prices_2000_2020March/*csv
+ls ~/Documents/scripts/historical_stock_prices_2000_2020March/*csv -1
+mv portfolio_analysis_prices.csv data/
+cp data/portfolio_analysis_prices.csv sample_data/
+python portfolio_analysis.py
+gvim /home/shra1/Documents/scripts/historical_stock_prices_2000_2020March/500027.csv
+python portfolio_analysis.py
+python
+python
+python portfolio_analysis.py
+python portfolio_analysis.py > sample_data/temp.csv
+ln -s ~/Documents/scripts/ my_scripts_all_private
+ll
+mkdir finance
+mkdir global_scripts
+cd global_scripts/
+echo "# global_scripts" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/shra114/global_scripts.git
+git push -u origin master
+ls
+cat README.md
+c
+cp ../my_scripts_all_private/functions.py .
+ga functions.py
+ll ~
+gvi m ~/.bashrc
+v ~/.bashrc
+cp ~/.bashrc bashrc_ubunutu
+ga bashrc_ubunutu
+gm -m "add functions.py and bashrc"
+gpush
+c
+ls
+1
+gs
+cd global_scripts/
+ls
+gs
+1
+ls
+ls data/holdings/*csv
+ga
+gs
+gm -m "add zerodha symbols " sample_data/allocation.csv
+gs
+source get_data_screener.sh ; source get_data.sh ;
+cd Documents/github/finance
+ls
+echo "# finance" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/shra114/finance.git
+git push -u origin master
+mv ../finance_tmp/* .
+ls
+ga *
+git reset
+ll
+gs
+ga functions.py portfolio_analysis.py sample_data/
+ga sample_data/*
+ls
+gs
+v .gitignore
+gs
+ga .gitignore
+gs
+v .gitignore
+gs
+ga .gitignore
+gm -m "first check-in"
+gs
+gpush
+gs
+ll
+ll da
+ll data/
+python
+source get_data_screener.sh ; source get_data.sh ;
+ga
+gs
+ll
+git log functions.py
+python
+python portfolio_analysis.py
+gs
+ga portfolio_analysis.py sample_data/allocation.csv
+gm -m "add diff gen. add zerodha symb"
+gs
+python portfolio_analysis.py
+python portfolio_analysis.py > sample_data/alloc_diff.csv
+of sample_data/alloc_diff.csv
+python portfolio_analysis.py
+rm sample_data/alloc_diff.csv
+python portfolio_analysis.py > sample_data/allocation_diff_20_03.csv
+of sample_data/allocation_diff_20_03.csv
+python portfolio_analysis.py
+python portfolio_analysis.py > sample_data/allocation_diff_20_03.csv
+ga sample_data/allocation_diff_20_03.csv
+gm -m "pf add diff 20_02"
+gs
+gm -m "print gen_diff" -a
+gpush
+gs
+python portfolio_analysis.py
+python portfolio_analysis.py > sample_data/allocation_diff_20_03_15.csv
+python portfolio_analysis.py
+python portfolio_analysis.py > sample_data/allocation_diff_20_03_15.csv
+python portfolio_analysis.py
+python portfolio_analysis.py > sample_data/allocation_diff_20_03_15.csv
+gs
+ga portfolio_analysis.py sample_data/allocation_diff_20_03_15.csv
+gm -m "add net chng coln"
+gpush
+source get_data_screener.sh ; source get_data.sh ;
+ls
+cd Documents/
+ls
+cd github/
+ls
+cd finance
+l
+cd sample_data/
+ls
+of allocation.csv
+python
+exit
+mv data/holdings/ ../my_scripts_all_private/
+ln -s /home/shra1/Documents/github/my_scripts_all_private/holdings/ data/holdings
+ll data/
+ls data/holdings
+python portfolio_analysis.py
+python portfolio_analysis.py > sample_data/allocation_diff_20_03_17.csv
+ga sample_data/allocation_diff_20_03_17.csv
+gm -m "add 20-3-17 diff. Add avanti. remove voltas"
+gpush
+of sample_data/allocation_diff_20_03_17.csv
+gs
+git diff sample_data/allocation.csv
+python portfolio_analysis.py > sample_data/allocation_diff_20_03_17.csv
+of sample_data/allocation_diff_20_03_17.csv
+python portfolio_analysis.py > sample_data/allocation_diff_20_03_17.csv
+of sample_data/allocation_diff_20_03_17.csv
+gs
+gm -m "add avanti remove voltas" -a
+gpush
+cs
+gs
+cd ../my_scripts_all_private/screener/
+gs
+1
+gs
+rm -rf temp.*
+ls
+gs
+ls
+cd screener/
+ls
+cat get_data.py
+ll ~
+ls
+1
+l
+gs
+gl get*
+c
+cd screener/
+ls
+touch get_prices_mas.py
+ga get_prices_mas.py
+gm -m "add get_prices_mas.py"
+v "add get_prices_mas.py"
+ln -s ~/Documents/github/global_scripts/functions.py .
+ll
+touch get_prices_mas_list.txt
+gs
+ga get_prices_mas_list.txt
+ga functions.py
+ll
+ga functions.py
+gs
+grep -i "Price" ~/Downloads/screener_data/20_01_29/500027.html
+ll
+1
+ll
+cd screener/
+ll
+ll ~/Downloads/screener_data/formatted.html
+of ~/Downloads/screener_data/formatted.html
+v ~/Downloads/screener_data/formatted.html
+python get_prices_mas.py
+ls VOLTAS
+ls ~/Documents/github/my_scripts_all_private/screener/get_prices_mas_list.txt
+python get_prices_mas.py
+ll
+cat comp_files.txt
+cat comp_files.txt
+python get_prices_mas.py
+ll ..
+v ../parse_data_sa.py
+2
+cd global_scripts/
+gs
+gd
+1
+cd my_scripts_all_private/screener/
+l
+1
+which g
+g
+which g
+g "def.*search" *
+g "def.*search" * -r
+g "def.*list" * -r
+g "def.*list.*(" * -r
+v ~/Downloads/screener_data/formatted.html
+ls functions.py
+python get_prices_mas.py
+v get_prices_mas_list.txt
+python get_prices_mas.py
+2
+cd github/my_scripts_all_private
+ll
+python get_prices_mas.py
+cd screener/
+python get_prices_mas.py
+mkdir /home/shra1/Downloads/screener_mas
+python
+python get_prices_mas.py
+v /home/shra1/Downloads/screener_mas/500027.txt
+python get_prices_mas.py
+gs
+gm -m "add a script to calculate the moving averages of the selected stocks" -a
+mkdir /home/shra1/Documents/github/finance/mas
+python get_prices_mas.py
+gs
+gm -m "update to pick from allocation.csv" -a
+1
+cd finance/
+l
+gs
+ga mas/
+gs
+ga mas/*
+gm -m "add moving averages"
+gs
+ls mas
+ls mas |wc
+python portfolio_analysis.py
+gs
+gm -m "add price by moving average column " -a
+python portfolio_analysis.py > sample_data/allocation_diff_20_03_17.csv
+ga sample_data/allocation_diff_20_03_17.csv
+gm -m "update allocation diff"
+gpush
+of sample_data/allocation_diff_20_03_17.csv
+ls ~/Downloads/screener_data
+ls ~/Downloads/screener_data -1
+ls ~/Downloads/screener_data -1 |gvim -
+gs
+gm -m 'update allocation.csv" -a
+exit
+e
+gs
+gm -m "update allocation.csv" -a
+gpush
+1
+ls
+gs
+rm -r finance_tmp/
+ls
+cd global_scripts/
+gs
+gm -m "update" -a
+gpush
+1
+ls
+ll
+cd my_scripts_all_private
+ls
+gs
+ga holdings/
+gs
+gm -m "add holdings" -a
+gpush
+source get_data_screener.sh ; source get_data.sh ;
+v ~/Downloads/screener_data/formatted.html
+ls Downloads/data
+ls Downloads/screener_data/
+ls Downloads/screener_data/ |wc
+ll
+v /home/shra1/Documents/scripts/get_data_screener.sh
+python ~/Documents/github/my_scripts_all_private/screener/get_prices_mas.py
+v /home/shra1/Downloads/screener_mas/540153.txt
+ls ~/Downloads/screener_data|wc
+v ~/Downloads/screener_data/20_03_17/540153.html
+v /home/shra1/Downloads/screener_mas/540153.txt
+v get_data_screener.sh
+source get_data_screener.sh ; source get_data.sh ;
+ls
+1
+l
+cd github/
+l
+cd finance/
+l
+cd *s
+ll
+date
+v 500027.txt
+1
+ls
+cd ../*ts
+ls
+1
+ls
+cd *e
+cd *te
+ls
+cd screener/
+ls
+python get_prices_mas.py
+v /home/shra1/Documents/github/finance/mas/517506.txt
+gs
+gm -m "num_days = 30" -a
+ls
+1
+ls
+gs
+1
+ls
+cd global_scripts/
+ls
+gs
+1
+ls
+cd finance/
+gs
+gm -m 'update' -a
+ls
+ll
+ls -ltr
+mkdir Downloads/badminton
+cd Downloads/badminton
+youtube-dl -cit "https://www.youtube.com/watch?v=QaHk70PVgr0&list=PLEBDE1E42B3A9BC37"
+youtube-dl -U
+sudo youtube-dl -U
+youtube-dl -cit "https://www.youtube.com/watch?v=QaHk70PVgr0&list=PLEBDE1E42B3A9BC37"
+l
+ls |wc
+ls
+source get_data_screener.sh ; source get_data.sh ;
+shutdown -h now
+source get_data_screener.sh ; source get_data.sh ;
+ll
+df -h .
+ll
+df -h .
+cp /media/shra1/Elements/Windows\ backup/ -r .
+df -h .
+exit
+shx
+exit
+1
+mkdir quiz
+cd quiz
+echo "# quiz" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/shra114/quiz.git
+git push -u origin master
+gs
+ll
+v README.md
+ls
+gs
+ga README.md
+gm -m "add description" -a
+touch run_quiz.py quiz.py create_quiz_files.py config_run.yml config_create_quiz.yml
+ga *
+gm -m "add initial files" -a
+python quiz.py
+ln -s ../global_scripts/functions.py .
+ll
+gs
+ga functions.py quiz.py
+gm -m "add question class, functions.py" -a
+gpush
+python quiz.py
+ll
+ls personal/
+rm 0.txt
+python quiz.py
+cp ../my_scripts_all_private/{beep.py,google_maps.py,swiss.py,zip.py} ../global_scripts/
+python ../global_scripts/beep.py
+python ../global_scripts/beep.py 0.1
+python ../global_scripts/beep.py 1
+python ../global_scripts/beep.py 15 &
+python quiz.py
+ll
+ll personal/
+cat personal/
+cat personal/*
+python quiz.py
+python
+c
+python quiz.py
+ll personal/
+cat personal/*
+rm personal/*
+python quiz.py
+ll
+ll personal/
+python
+touch .gitignore
+gs
+rm .gitignore
+ls
+gs
+git add personal/*
+gs
+gm -m "add a sample dir in"
+gm -m "Initial release: currently working on read_from_file" -a
+gs
+gpush
+ls
+python quiz.py
+python run_quiz.py
+python create_quiz_files.py
+python run_quiz.py
+g
+gs
+v .gitignore
+gs
+ga .gitignore
+ga personal/*
+gs
+gm -m "Stable release! " -a
+v README.md
+gs
+gm -m "Readme for stable release" -a
+gs
+cd ../global_scripts/o
+cd ../global_scripts/
+gs
+gm -m "Add new function required for quiz program" -a
+ga *
+gs
+gm -m "Add new files" -a
+ls
+gpush
+cd ../quiz
+l
+gpush
+python ../global_scripts/google_maps.py
+ls
+v temp.html
+v temp.html
+python ../global_scripts/google_maps.py
+gs
+v .gitignore
+gs
+cd ../global_scripts/
+ls
+gs
+cp ../quiz/.gitignore .
+l
+ll
+gs
+ga .gitignore
+gm -m "add git ignore " .gitignore
+gs
+gm -m "Fix issues. Python3 compatible working fine" google_maps.py
+gpush
+ln -s ~/data_drive
+exit
+1
+cd -
+1
+ls
+cd -
+1
+ls
+mkdir audio_cut_and_merge
+cd audio_cut_and_merge
+ls
+ll ~
+cp ~/data_drive/Svetasvatara\ Upanishad/01\ -\ 01\ -\ Svetasvatara\ Upanishad.mp3 sample.mpe
+mv sample.mpe sample.mp3
+ffmpeg -i sample.mp3 -ss 00:00:00 -to 00:00:50 out.mp3
+ll
+ls -tlr
+ls -tlrh
+mv out.mp3 sample.mp3
+ffmpeg -i sample.mp3 -ss 00:00:00 -to 00:00:20 out1.mp3
+ffmpeg -i sample.mp3 -ss 00:00:20 -to 00:00:50 out2.mp3
+ll
+ffmpeg -i out1.mp3 -i out2.mp3 out.mp3
+ll
+ffmpeg -i "concat:file1.mp3|file2.mp3" -acodec copy output.mp3
+rm out.mp3; ffmpeg -i "concat:out1.mp3|out2.mp3" -acodec copy out.mp3
+ll
+touch "audio_common.py"
+ll
+ln -s ../global_scripts/functions.py .
+ll
+touch config.txt
+python
+touch audio_run.py
+ls
+python audio_run.py
+python audio_run.py
+ll
+gs
+python audio_run.py
+ll
+python audio_run.py
+ll
+of out.mp3
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/shra114/audio_cut_and_merge.git
+git push -u origin master
+gs
+ga *py *txt sample.mp3
+gs
+gm -m "Initial relase things are working fine" -a
+gs
+gpush
+ls
+ll
+touch README.md
+gs
+ga README.md
+gs
+gm -m "Add README.md" -a
+gpush
+sudo youtube-dl -U
+sudo update
+sudo apt-get update
+sudo apt-get upgrade
+#shutdown -h now
+ll
+unlink data_drive
+go
+cd
+ln -s /media/shra1/Data/ data_drive
+ll
+ga personal/*
+source get_data_screener.sh ; source get_data.sh ;
+shutdown -h now
+1
+cd finance/
+ll
+v portfolio_analysis.py
+ll data/holdings
+ls
+ls mas/
+ll mas/
+python portfolio_analysis.py
+python portfolio_analysis.py > data/holdings/analysis_20_04_01.csv
+of data/holdings/analysis_20_04_01.csv
+ps -ax
+ps -ax |g lib
+ps -ax |g libre
+ps -ax |g libre |g calc
+kill 8218 8237
+cd Documents/scripts/holdings/
+l
+of analysis_20_04_01.csv
+source get_data_screener.sh ; source get_data.sh ;
+python portfolio_analysis.py
+python portfolio_analysis.py > data/holdings/analysis_20_04_01.csv
+gs
+gm -m "update mas" -a
+gpush
+1
+cd scr
+cd scri
+ls
+cd my_scripts_all_private
+gs
+ga ga holdings/*
+gs
+ga holdings/*
+gs
+gm -m "add holdings and anlysis of 20_04_01" -a
+gm -m "update temp files" -a
+gpush
+source get_data_screener.sh ; source get_data.sh ;
+touch kena_cut.txt
+gvim kena_cut.txt
+ls
+python
+python
+python
+du -sh .
+LS
+ls
+cd 102\ KENA\ SW\ TATTWA\ 2004/
+;ls
+ls
+ll
+c
+ls
+cp ~/Documents/github/audio_cut_and_merge/audio_run.py .
+v .
+l
+mv audio_run.py cuts/
+ll
+cd cuts/
+ls
+c
+ls
+v audio_run.py
+ls
+python audio_run.py
+ll
+python audio_run.py
+ll
+date
+of mantas.mp3
+mkdir quiz
+ls
+mkdir cuts
+ls
+ll
+touch cuts/config.txt
+v cuts/config.txt
+cd cuts/
+ls ..
+ll
+cd 20_04_03
+g "pvr" *
+ls
+grep "pvr" *
+grep "pvr"
+grep "pvr"
+grep "pvr" .
+ll
+g "hi" *
+g "htm" *
+g "htm" *html
+which grep
+grep "h" 500002.html
+grep "h" *.html
+grep 'h' *.html
+grep -r 'h' *.html
+grep -r 'h' *
+grep -r 'h'
+grep -r 'pvr'
+grep -r 'pvr' -irn
+grep -r 'pvr' -irnl
+v 532500.html 532689.html
+python Documents/github/global_scripts/beep.py 2
+v ~/.bashrc
+beep
+v ~/.bashrc
+shx
+pybeep 10
+youtube-dl https://www.youtube.com/watch?v=_Mi8BC8dD-g
+ll
+youtube-dl https://www.youtube.com/watch?v=_Mi8BC8dD-g -k
+ll
+mv Baahubali\ OST\ -\ Volume\ 05\ -\ Devasena\ _\ MM\ Keeravaani-_Mi8BC8dD-g.mkv Downloads/temp/
+youtube-dl https://www.youtube.com/watch?v=_Mi8BC8dD-g -k
+ll
+mv Baahubali\ OST\ -\ Volume\ 05\ -\ Devasena\ _\ MM\ Keeravaani-_Mi8BC8dD-g.f137.mp4 video.mp4
+ffmpeg -i video.mp4 -vn -acodec libmp3lame -ac 2 -ab 160k -ar 48000 audio.mp3
+of video.mp4
+of Baahubali\ OST\ -\ Volume\ 05\ -\ Devasena\ _\ MM\ Keeravaani-_Mi8BC8dD-g.mkv
+find . -type f -name "*.mkv" -exec bash -c 'FILE="$1"; ffmpeg -i "${FILE}" -vn -c:a libmp3lame -y "${FILE%.mkv}.mp3";' _ '{}' \;
+ll
+of Baahubali\ OST\ -\ Volume\ 05\ -\ Devasena\ _\ MM\ Keeravaani-_Mi8BC8dD-g.mp3
+cp Documents/github/audio_cut_and_merge/audio_run.py .
+v audio_run.py
+mv Baahubali\ OST\ -\ Volume\ 05\ -\ Devasena\ _\ MM\ Keeravaani-_Mi8BC8dD-g.mp3 bgm.mp3
+python audio_run.py
+ll
+shist
+history
+v ~/.bashrc
+v Documents/github/global_scripts/remove_duplicates.py
+source ~/.bashrc
+shist
+source ~/.bashrc
+shist
+source ~/.bashrc
+shist
+v ~/Documents/github/global_scripts/shist.sh
+source ~/Documents/github/global_scripts/shist.sh
+ll
+cat history.txt
+python ~/Documents/github/global_scripts/remove_duplicates.py ~/history.txt ~/history.txt
+v /home/shra1/history.txt
+shist
+source ~/Documents/github/global_scripts/shist.sh
+ll
+python ~/Documents/github/global_scripts/remove_duplicates.py ~/history.txt ~/history2.txt
+tkdiff history*
+diff history*txt
+diff history*txt |gvim -
+cat ~/Documents/github/global_scripts/shist.sh
+history | awk '{first = $1; $1 = ""; print $0, first; }' | awk 'NF{NF--};1'
+history | awk '{first = $1; $1 = ""; print $0, first; }'
+history | awk '{first = $1; $1 = ""; print $0, first; }' | awk 'NF{NF--};1'
+history | awk '{first = $1; $1 = ""; print $0, first; }'
+history | awk '{first = $1; $1 = ""; print $0, first; }' | awk 'NF{NF--};1'
+history | awk '{first = $1; $1 = ""; print $0, first; }'
+history | awk '{first = $1; $1 = ""; print $0, first; }' | awk 'NF{NF--};1'
+history | awk '{first = $1; $1 = ""; print $0, first; }'
+history | awk '{first = $1; $1 = ""; print $0, first; }' | awk 'NF{NF--};1'
+python ~/Documents/github/global_scripts/remove_duplicates.py ~/history.txt ~/history2.txt
+tkdiff history.txt history2.txt
+source ~/Documents/github/global_scripts/shist.sh
+ll
+python ~/Documents/github/global_scripts/remove_duplicates.py ~/history.txt ~/history2.txt
+ll
+tkdiff history.txt history2.txt
+python ~/Documents/github/global_scripts/remove_duplicates.py ~/history.txt ~/history2.txt
+ll
+tkdiff history.txt history2.txt
+source ~/Documents/github/global_scripts/shist.sh
+ll
+rm history.txt
+source ~/Documents/github/global_scripts/shist.sh
+python ~/Documents/github/global_scripts/remove_duplicates.py ~/history.txt ~/history2.txt
+ll
+python ~/Documents/github/global_scripts/remove_duplicates.py ~/history.txt ~/history.txt
+ll
+source ~/Documents/github/global_scripts/shist.sh
+python ~/Documents/github/global_scripts/remove_duplicates.py ~/history.txt ~/history.txt
+ll
+v history.txt
+rm history2.txt
+rm history.txt
+source ~/Documents/github/global_scripts/shist.sh
+ll
+v history.txt
+checkafda;ksdfj a'
+chkalfjda
+source ~/Documents/github/global_scripts/shist.sh
+v shi
+cp ~/.bashrc Documents/github/global_scripts/bashrc_ubunutu
+cd Documents/github/global_scripts/bashrc_ubunutu
+cd Documents/github/global_scripts/
+c
+ga
+gs
+ga remove_duplicates.py shist.sh
+gm -m "add remove duplicates and shist" -a
+gpush
+shx
+source ~/.bashrc
+shx
