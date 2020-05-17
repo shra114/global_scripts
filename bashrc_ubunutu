@@ -88,7 +88,7 @@ fi
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
 # some more ls aliases
-alias ll='ls -ltrh'
+alias ll='ls -ltrah'
 alias la='ls -A'
 alias c='clear'
 alias l='ls -CF'
@@ -103,12 +103,16 @@ alias gl='git log'
 alias gpull='git pull origin master'
 alias gpush='git push origin master'
 alias python='python3'
-alias g='grep -i --color=auto'
+alias g='grep -i --color=auto '
 alias of="gnome-open "
 alias pybeep="python ~/Documents/github/global_scripts/beep.py "
-alias removeduplicates=="python ~/Documents/github/global_scripts/"
+alias removeduplicates=="python ~/Documents/github/global_scripts/remove_duplicates.py"
 alias shist="source ~/Documents/github/global_scripts/shist.sh"
-alias shx"shist;exit"
+alias ghist="cat ~/history.txt|g "
+alias shx="shist ; exit"
+alias ydlp='youtube-dl -o "%(playlist_index)s-%(title)s.%(ext)s"'
+alias myunhide='source ~/Documents/github/global_scripts/unhide.sh'
+alias myhide='source ~/Documents/github/global_scripts/hide.sh'
 
 
 # Add an "alert" alias for long running commands.  Use like so:
