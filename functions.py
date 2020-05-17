@@ -118,7 +118,7 @@ def moving_averages(l1,n=2):
     ma = l1[:n]
     for i in range(n,len(l1)):
         list1 = l1[i-n:i]
-        ma.append(round(median(list1),2))
+        ma.append(round(sum(list1)/len(list1),2))
     return ma
 #print (moving_averages([1,2,3,4,5,6]))
 #[1, 1.5, 2, 2.5, 3, 3.5]
