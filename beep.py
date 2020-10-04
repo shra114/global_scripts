@@ -1,3 +1,5 @@
+#sudo apt install sox
+ 
 import os
 import sys
 import time
