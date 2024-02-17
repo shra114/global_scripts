@@ -13,3 +13,4 @@ while(1):
 	os.system('play -nq -t alsa synth {} sine {}'.format(duration, freq))
 	print (time.localtime())
 	time.sleep(sleep_time)
+	#debug print
